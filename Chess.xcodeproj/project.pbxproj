@@ -14,6 +14,20 @@
 		5708C3491B0BA68D001A4EEA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5708C3481B0BA68D001A4EEA /* Images.xcassets */; };
 		5708C34C1B0BA68D001A4EEA /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5708C34A1B0BA68D001A4EEA /* LaunchScreen.xib */; };
 		5708C3581B0BA68E001A4EEA /* ChessTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5708C3571B0BA68E001A4EEA /* ChessTests.swift */; };
+		57B425851B0C41AD006530CA /* ChessElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57B425841B0C41AD006530CA /* ChessElements.swift */; };
+		57FDDD9D1B0BBB150078FC08 /* Chess_bdt45.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = 57FDDD911B0BBB150078FC08 /* Chess_bdt45.svg.png */; };
+		57FDDD9E1B0BBB150078FC08 /* Chess_kdt45.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = 57FDDD921B0BBB150078FC08 /* Chess_kdt45.svg.png */; };
+		57FDDD9F1B0BBB150078FC08 /* Chess_ndt45.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = 57FDDD931B0BBB150078FC08 /* Chess_ndt45.svg.png */; };
+		57FDDDA01B0BBB150078FC08 /* Chess_nlt45.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = 57FDDD941B0BBB150078FC08 /* Chess_nlt45.svg.png */; };
+		57FDDDA11B0BBB150078FC08 /* Chess_qdt45.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = 57FDDD951B0BBB150078FC08 /* Chess_qdt45.svg.png */; };
+		57FDDDA21B0BBB150078FC08 /* Chess_qlt45.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = 57FDDD961B0BBB150078FC08 /* Chess_qlt45.svg.png */; };
+		57FDDDA31B0BBB150078FC08 /* Chess_rdt45.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = 57FDDD971B0BBB150078FC08 /* Chess_rdt45.svg.png */; };
+		57FDDDA41B0BBB150078FC08 /* Chess_blt45.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = 57FDDD981B0BBB150078FC08 /* Chess_blt45.svg.png */; };
+		57FDDDA51B0BBB150078FC08 /* Chess_klt45.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = 57FDDD991B0BBB150078FC08 /* Chess_klt45.svg.png */; };
+		57FDDDA61B0BBB150078FC08 /* Chess_pdt45.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = 57FDDD9A1B0BBB150078FC08 /* Chess_pdt45.svg.png */; };
+		57FDDDA71B0BBB150078FC08 /* Chess_plt45.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = 57FDDD9B1B0BBB150078FC08 /* Chess_plt45.svg.png */; };
+		57FDDDA81B0BBB150078FC08 /* Chess_rlt45.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = 57FDDD9C1B0BBB150078FC08 /* Chess_rlt45.svg.png */; };
+		57FDDDAB1B0BBB420078FC08 /* blank-chess-board.gif in Resources */ = {isa = PBXBuildFile; fileRef = 57FDDDAA1B0BBB420078FC08 /* blank-chess-board.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +52,20 @@
 		5708C3511B0BA68D001A4EEA /* ChessTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChessTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5708C3561B0BA68D001A4EEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5708C3571B0BA68E001A4EEA /* ChessTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChessTests.swift; sourceTree = "<group>"; };
+		57B425841B0C41AD006530CA /* ChessElements.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChessElements.swift; sourceTree = "<group>"; };
+		57FDDD911B0BBB150078FC08 /* Chess_bdt45.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Chess_bdt45.svg.png; sourceTree = "<group>"; };
+		57FDDD921B0BBB150078FC08 /* Chess_kdt45.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Chess_kdt45.svg.png; sourceTree = "<group>"; };
+		57FDDD931B0BBB150078FC08 /* Chess_ndt45.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Chess_ndt45.svg.png; sourceTree = "<group>"; };
+		57FDDD941B0BBB150078FC08 /* Chess_nlt45.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Chess_nlt45.svg.png; sourceTree = "<group>"; };
+		57FDDD951B0BBB150078FC08 /* Chess_qdt45.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Chess_qdt45.svg.png; sourceTree = "<group>"; };
+		57FDDD961B0BBB150078FC08 /* Chess_qlt45.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Chess_qlt45.svg.png; sourceTree = "<group>"; };
+		57FDDD971B0BBB150078FC08 /* Chess_rdt45.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Chess_rdt45.svg.png; sourceTree = "<group>"; };
+		57FDDD981B0BBB150078FC08 /* Chess_blt45.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Chess_blt45.svg.png; sourceTree = "<group>"; };
+		57FDDD991B0BBB150078FC08 /* Chess_klt45.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Chess_klt45.svg.png; sourceTree = "<group>"; };
+		57FDDD9A1B0BBB150078FC08 /* Chess_pdt45.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Chess_pdt45.svg.png; sourceTree = "<group>"; };
+		57FDDD9B1B0BBB150078FC08 /* Chess_plt45.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Chess_plt45.svg.png; sourceTree = "<group>"; };
+		57FDDD9C1B0BBB150078FC08 /* Chess_rlt45.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Chess_rlt45.svg.png; sourceTree = "<group>"; };
+		57FDDDAA1B0BBB420078FC08 /* blank-chess-board.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "blank-chess-board.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,10 +107,12 @@
 		5708C33C1B0BA68D001A4EEA /* Chess */ = {
 			isa = PBXGroup;
 			children = (
+				57FDDDA91B0BBB1F0078FC08 /* Chess Pieces/Board */,
 				5708C33F1B0BA68D001A4EEA /* AppDelegate.swift */,
 				5708C3411B0BA68D001A4EEA /* FirstViewController.swift */,
 				5708C3431B0BA68D001A4EEA /* SecondViewController.swift */,
 				5708C3451B0BA68D001A4EEA /* Main.storyboard */,
+				57B425841B0C41AD006530CA /* ChessElements.swift */,
 				5708C3481B0BA68D001A4EEA /* Images.xcassets */,
 				5708C34A1B0BA68D001A4EEA /* LaunchScreen.xib */,
 				5708C33D1B0BA68D001A4EEA /* Supporting Files */,
@@ -113,6 +143,26 @@
 				5708C3561B0BA68D001A4EEA /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		57FDDDA91B0BBB1F0078FC08 /* Chess Pieces/Board */ = {
+			isa = PBXGroup;
+			children = (
+				57FDDDAA1B0BBB420078FC08 /* blank-chess-board.gif */,
+				57FDDD911B0BBB150078FC08 /* Chess_bdt45.svg.png */,
+				57FDDD921B0BBB150078FC08 /* Chess_kdt45.svg.png */,
+				57FDDD931B0BBB150078FC08 /* Chess_ndt45.svg.png */,
+				57FDDD941B0BBB150078FC08 /* Chess_nlt45.svg.png */,
+				57FDDD951B0BBB150078FC08 /* Chess_qdt45.svg.png */,
+				57FDDD961B0BBB150078FC08 /* Chess_qlt45.svg.png */,
+				57FDDD971B0BBB150078FC08 /* Chess_rdt45.svg.png */,
+				57FDDD981B0BBB150078FC08 /* Chess_blt45.svg.png */,
+				57FDDD991B0BBB150078FC08 /* Chess_klt45.svg.png */,
+				57FDDD9A1B0BBB150078FC08 /* Chess_pdt45.svg.png */,
+				57FDDD9B1B0BBB150078FC08 /* Chess_plt45.svg.png */,
+				57FDDD9C1B0BBB150078FC08 /* Chess_rlt45.svg.png */,
+			);
+			name = "Chess Pieces/Board";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -195,9 +245,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				57FDDDA11B0BBB150078FC08 /* Chess_qdt45.svg.png in Resources */,
+				57FDDDA51B0BBB150078FC08 /* Chess_klt45.svg.png in Resources */,
+				57FDDDA01B0BBB150078FC08 /* Chess_nlt45.svg.png in Resources */,
 				5708C3471B0BA68D001A4EEA /* Main.storyboard in Resources */,
+				57FDDDA41B0BBB150078FC08 /* Chess_blt45.svg.png in Resources */,
+				57FDDD9F1B0BBB150078FC08 /* Chess_ndt45.svg.png in Resources */,
+				57FDDDA71B0BBB150078FC08 /* Chess_plt45.svg.png in Resources */,
+				57FDDD9E1B0BBB150078FC08 /* Chess_kdt45.svg.png in Resources */,
+				57FDDDA31B0BBB150078FC08 /* Chess_rdt45.svg.png in Resources */,
+				57FDDDAB1B0BBB420078FC08 /* blank-chess-board.gif in Resources */,
+				57FDDD9D1B0BBB150078FC08 /* Chess_bdt45.svg.png in Resources */,
 				5708C34C1B0BA68D001A4EEA /* LaunchScreen.xib in Resources */,
+				57FDDDA21B0BBB150078FC08 /* Chess_qlt45.svg.png in Resources */,
 				5708C3491B0BA68D001A4EEA /* Images.xcassets in Resources */,
+				57FDDDA61B0BBB150078FC08 /* Chess_pdt45.svg.png in Resources */,
+				57FDDDA81B0BBB150078FC08 /* Chess_rlt45.svg.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -216,6 +279,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5708C3441B0BA68D001A4EEA /* SecondViewController.swift in Sources */,
+				57B425851B0C41AD006530CA /* ChessElements.swift in Sources */,
 				5708C3401B0BA68D001A4EEA /* AppDelegate.swift in Sources */,
 				5708C3421B0BA68D001A4EEA /* FirstViewController.swift in Sources */,
 			);
@@ -413,6 +477,7 @@
 				5708C35D1B0BA68E001A4EEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5708C35E1B0BA68E001A4EEA /* Build configuration list for PBXNativeTarget "ChessTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +486,7 @@
 				5708C3601B0BA68E001A4EEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
